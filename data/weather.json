@@ -1,0 +1,32 @@
+[
+    {
+        "name": "dhaka",
+        "high": "40°",
+        "low": "15°"
+    },
+    {
+        "name": "khulna",
+        "high": "35°",
+        "low": "10°"
+    },
+    {
+        "name": "jessore",
+        "high": "40°",
+        "low": "15°"
+    },
+    {
+        "name": "bagerhat",
+        "high": "35°",
+        "low": "10°"
+    },
+    {
+        "name": "rangpur",
+        "high": "40°",
+        "low": "15°"
+    },
+    {
+        "name": "rajshahi",
+        "high": "35°",
+        "low": "10°"
+    }
+]
